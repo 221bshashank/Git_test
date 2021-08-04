@@ -1,0 +1,15 @@
+Hello everyone I shashank  along with my team members priyanshu , harsh and prashant are going to present the working model of our application.
+This is the landing page or the homepage of our website. On clicking the shop now button, we would land on the products page. In this page, we can see some products has been listed along with their specification and prices. 
+Next comes, The About us section, here we have described what our website is all about
+Next comes the Contact us section, Here the user can give us the feedback along with the email address and also get connect to us via instagram, Twitter, facebook, and LinkedIn
+Now, coming to the main part , After choosing from the enlisted products, click on the buy now option. Thereafter a popup appears. Here it show the Real Time ethereum price of the product. Here we have designed the API that converts the product’s price in rupees to ethereum price. you can have a close look that the ethereum prices is being fluctuating every moment. Right here the buyer wants to make the payment through this below provided ethereum hexadecimal address. And yes, we have implemented ethereum blockchain technology for the payment as said in the beginning. This is the ID through which we are going to make ethereum transaction directly to the sellers wallet. Now copy  down the SELLER ID.
+Now we will approach to the Metamask section, let me define what metamask is : MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. MetaMask equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets. 
+As you can see we are having 100  number of ETH coins. Now we are going to make payment to the seller ID by clicking on the send button. Already we had made a dummy account named seller for which a transaction will be made from our account to the seller account. A transaction is going to be made along with the gas limit. Gas limit is the charge which is going to cost for the following transaction. and it is kind of negligible. As you can see the transaction is successful within seconds hence making all the processes reliable,faster,secure and much more than the existing technologies.
+
+Now finally we come to the bill part of the transaction
+SO let me show how to connect with Ganache
+Ganache is like a local passbook maintained in the system and consist of all the detailed transaction made using Metamask.
+here you can see the previous purchase details of laptop. it is very detailed , handly and secure as well.
+
+We can check that the ethereum has been successfully sent to the sellers account.
+Thank You.

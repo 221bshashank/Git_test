@@ -1,0 +1,21 @@
+As we all know that e-commerce that is in simple words we say online shopping has revolutionized the way we all shop. Either it is a mobile phone or laptop or things we need in day to day life to our professional needs everything is available to to purchase on internet.
+
+There are many reasons behind it like they are reliable, hassle free, it has varieties, deals and many more.
+
+And in this current pandemic situation e-commerce was the backbone that kept people to the market connected
+
+But it is also not hidden from anyone that that sometimes we find these sites very frustrating due to many reasons like payment failure, refund related issues, logistics delay and all.
+
+keeping in mind the modern era and evolution of internet we have come up with a solution that is kind of new and will also escalate the existing platforms for betterment.
+
+In short our application is a e-commerce website which has all the necessary items you will need but apart from that we have come up with a very subtle idea that we vanish all the existing problems for sure.
+
+And it is Ethereum as payment, as we all know that in today’s world processing time can only be reduced further if we reduce the existing bodies that controls it as in case of current e-commerce site there are sellers, buyers, logistics, banks, company itself all are involved which results in a delay
+
+ So how ethereum will help to overcome this, very simple answer to this is ethereum is decentralized, this small word has a wholesome meaning in it as it will simply remove all the third party bodies between a buyer and seller hence resulting in faster processing of payment then shipment then delivery of goods.
+
+One more benefit of using ethereum is it’s low taxation amount per transaction, that is a wonderful discount everyone will get.
+
+Now, we are going to show you the working prototype pf the application we created
+
+Starting with all the technologies that we used are Blockchain, Cryptocurrency that is ethereum, metamask, ganache, and web development tools for UI and UX nad much more.
